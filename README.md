@@ -13,9 +13,11 @@
 - ⚡ Fun fact **teamwork ✌️**
 
 <h3 align="left">Connect with me:</h3>
+## 📩 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/mostafa-abu-hemaid-9a2305266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-abu-hemaid-9a2305266" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100012833220694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012833220694" height="30" width="40" /></a>
+    <a href="mostafaabohameed186@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/profile.php?id=100012833220694" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mostafa-abu-hemaid-9a2305266/" title="LinkedIn"><img style="text-align: center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
