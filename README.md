@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abu hemaid</h1>
-<h3 align="center">I am  ASP.NET Developer with hands-on experience in designing and building robust web applications using C#, .NET Core, and Entity Framework Core </h3>
+<h3 align="center">I am a passionate ASP.NET Developer with hands-on experience in designing and building robust web applications using C#, .NET Core, and Entity Framework Core. I specialize in backend development and have a proven track record of delivering scalable, efficient, and user-friendly solutions for diverse industries</h3>
 
 <div align="center">
   <img src="https://scontent.fcai17-1.fna.fbcdn.net/v/t39.30808-6/347599260_1660759551004023_5965026716615886463_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeF5pVPZ6DjNS7E9WX3wDh8xl8OEqjIbMjiXw4SqMhsyOCdtY50llwhhd0S6p7Liw9CAnAiqEs09X5ZJ5EeCO0-N&_nc_ohc=jd5BIxVzYyMQ7kNvwGC4GQN&_nc_oc=AdkMjJT90D_7pKld522xjt8ItX-kLb6ZTwQIXjwqLdEAA8GuWm08LZ6UwfFX_EuX8ac&_nc_zt=23&_nc_ht=scontent.fcai17-1.fna&_nc_gid=BotJTq_N9hVLv9GK8iBQWg&oh=00_AfKUEE8zJ6_MFloJJPffGM5wB9nifd1f5tJzpz4pvzr-JQ&oe=68345A5A" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
